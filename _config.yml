@@ -3,7 +3,7 @@ title:               ENG 612/MLL 772
 tagline:             'Topics in DH: Humanities Data Spring 2022'
 description:         'A graduate seminar offered in the <a href="https://english.as.miami.edu/" target="_blank">University of Miami English Department</a>. Taught by <a href="https://lindsaythomas.net" target="_blank">Lindsay Thomas</a>.'
 url:                 https://lindsaythomas.net
-baseurl:             '/eng612s22'
+baseurl:             '/eng612s22/'
 paginate:            5
 permalink:           pretty
 
