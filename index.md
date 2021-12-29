@@ -9,7 +9,7 @@ Wednesdays, 2-4:30 pm<br>
 MB 205
 
 ## Lindsay Thomas
-lindsaythomas@miami.edu, lxt308@miami.edu<br>
+<lindsaythomas@miami.edu>, <lxt308@miami.edu><br>
 Office hours: W, 11:30 am – 1:30 pm, and by appointment<br>
 In person (outside) or via Zoom
 
@@ -21,3 +21,4 @@ This class is designed to introduce participants to the concepts and methods res
 The course is open to students across the humanities, although it will focus on literary and cultural studies. No experience in the digital humanities or with digital tools or methods is required. This course will count toward the completion of the Graduate Certificate in Digital Humanities (it will count as the practicum course for those students who need to fulfill that requirement this year).
 
 ## Acknowledgments
+This syllabus has benefitted enormously from the labor of others. In particular, I have borrowed and/or adapted ideas, readings, assignments, and conceptual framing from Ryan Cordell’s [Intro to DH (F20)](https://f20idh.ryancordell.org/) and [BookLab: Print to Programming (S22)](https://s22bl.ryancordell.org/schedule.html) courses; from Miriam Posner’s [Museums in the Digital Age (F20)](http://miriamposner.com/classes/is289f20/) course; and from Jim McGrath’s [Digital Archives and Digital Publics (S20)](https://digitalarchivesanddigitalpublics.jimmcgrath.us/syllabus/) course.
