@@ -5,12 +5,12 @@ title: Topics in DH: Humanities Data
 # Topics in DH: Humanities Data
 
 ## Spring 2022
-Wednesdays, 2-4:30 pm
+Wednesdays, 2-4:30 pm<br>
 MB 205
 
 ## Lindsay Thomas
-lindsaythomas@miami.edu, lxt308@miami.edu
-Office hours: W, 11:30 am – 1:30 pm, and by appointment
+lindsaythomas@miami.edu, lxt308@miami.edu<br>
+Office hours: W, 11:30 am – 1:30 pm, and by appointment<br>
 In person (outside) or via Zoom
 
 ## Course Description
