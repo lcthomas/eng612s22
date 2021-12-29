@@ -2,6 +2,8 @@
 layout: page
 title: Topics in DH: Humanities Data
 ---
+# Topics in DH: Humanities Data
+
 ## Spring 2022
 Wednesdays, 2-4:30 pm
 MB 205
