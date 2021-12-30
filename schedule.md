@@ -99,7 +99,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Michelle Caswell, Marika Cifor, and Mario H. Ramirez, "'To Suddenly Discover Yourself Existing': Uncovering the Impact of Community Archives," *The American Archivist* (2016)
     - Familiarize yourself with the [South Asian American Digital Archive](https://www.saada.org/){:target="_blank"}
 
-### Friday, March 11: Lab 6 and first self-assessment due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 over break)**
+### Friday, March 11: Lab 6 and first self-assessment due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 over break)
 
 ## Week 9
 ### Wednesday, March 16: NO CLASS -- SPRING BREAK
