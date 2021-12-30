@@ -28,7 +28,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 3: An Impossible View from Nowhere (or, on objectivity and quantification)
 ### Wednesday, February 2
-- **Lab 1 notebook entry due by class**
+- **Lab 1 notebook entry and statement of goals due by class**
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 3: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints,"](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/5?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 4: What Gets Counted Counts,"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Sarah Wilson, "Black Folk by the Numbers: Quantification in Du Bois," *American Literary History* (2016)
@@ -99,7 +99,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Michelle Caswell, Marika Cifor, and Mario H. Ramirez, "'To Suddenly Discover Yourself Existing': Uncovering the Impact of Community Archives," *The American Archivist* (2016)
     - Familiarize yourself with the [South Asian American Digital Archive](https://www.saada.org/){:target="_blank"}
 
-### Friday, March 11: Lab 6 due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 over break)**
+### Friday, March 11: Lab 6 and first self-assessment due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 over break)**
 
 ## Week 9
 ### Wednesday, March 16: NO CLASS -- SPRING BREAK
@@ -155,4 +155,4 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Wednesday, April 27
 - Final project presentations and discussion
 
-### Final project due finals week: Date TBD by class
+### Final project and final self-assessment due finals week: Date TBD by class

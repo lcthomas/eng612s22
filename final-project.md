@@ -58,3 +58,5 @@ You (and/or your team) will post your critical introduction to your (or a specif
 You should name your critical introduction using the following convention:
 
 -   YYYY-MM-DD-finalproject-WHAT-WORDS-YOU-WANT.md
+
+## Final Self-Assessment
