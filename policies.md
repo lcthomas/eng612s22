@@ -22,7 +22,7 @@ To access our class Google drive folder:
 1.	Go to drive.google.com and log in using your UM email address (the one given to you by UMIT, with the numbers in it, NOT an aliased email). If you are signed into Google drive via another account, you will need to sign out or select “add another account” by clicking on your account icon in the upper right corner of the screen.
 2.	Entering your UM email address will redirect you to the UM single sign on page, where you will enter your CaneID and password.
 3.	You will now be signed into Gdrive with your UM credentials. You will know you are signed in with your UM credentials because the U logo will appear in the upper right corner of your screen. If you do not see this logo, you are not signed in with your UM credentials. Signing in with your UM credentials is important because it protects your academic work behind UM’s firewall and ensures your privacy.
-4.	Click on “Shared with me” in the left-hand menu, where you should see our class folder: “ENG 612 S22”.
+4.	Click on “Shared with me” in the left-hand menu, where you should see our class folder: “ENG 612 MLL 772 S22”.
 
 ### Zoom
 We will use Zoom for the first two weeks of classes, as well as for office hours and one-on-one meetings (if not meeting outside). The “ENG 612 S22 Digital Infrastructure” document in our class Google drive folder will contain our class Zoom link and our office hours link.
