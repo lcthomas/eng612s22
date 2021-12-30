@@ -32,7 +32,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 4: What Gets Counted Counts,"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Sarah Wilson, "Black Folk by the Numbers: Quantification in Du Bois," *American Literary History* (2016)
 - Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads," *Social Text* (2018)
-    - Familiarize yourself with the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}
+    - Familiarize yourself with the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}<br>
 - [Lab 2: Spreadsheets](https://lindsaythomas.net/eng612s22/labs/lab-2/){:target="_blank"}
 
 ## Week 4: Collecting, Organizing, and Cleaning Data
