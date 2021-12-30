@@ -21,7 +21,7 @@ To foster your progress this semester, I commit myself to:
 ### Your Commitments
 This system will only work, however, if you also commit to:
 
-1.	Holding yourself to the highest standards. You should work to the best of your abilities throughout the semester in your reading, in-class conversation, and assignments.
+1. Holding yourself to the highest standards. You should work to the best of your abilities throughout the semester in your reading, in-class conversation, and assignments.
 2.	Taking intellectual risks when possible, pushing yourself to think, write, and create in new modes and grow as a scholar, while also ensuring our course is safe space for experimentation and failure. Push yourself beyond your comfort zone, but also allow yourself – and your class colleagues – to be wrong and to change your mind. This may prompt anxiety, but we can work through this together.
 3.	When completing course readings or assignments and discussing them in class, you should seek to understand first, and to question and critique second, only after you understand.
 4.	Experimenting with new tools and learning new technical skills with an open mind.
