@@ -2,7 +2,6 @@
 layout: page
 title: Course Policies and Grading
 ---
-# Course Policies and Grading
 ## COVID Disclaimer
 As we all know, times are tough. This is a demanding course, and while I have tried to adjust the course policies and expectations to account for the times, I’m certain I have not imagined every situation that may arise or accounted fully for every challenge you may be facing this semester. Please know, without a doubt, that your health and the health of your friends and family will always be more important to me than this course. You do not have to apologize to me if we need to find an alternate path for you through this course, or if you need more time to complete something. I want to support you, and I want you to communicate with me about how I can do that better.
 
