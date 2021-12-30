@@ -9,7 +9,7 @@ As we all know, times are tough. This is a demanding course, and while I have tr
 For the first two weeks of the semester, we will meet remotely using Zoom. Assuming we return to in-person instruction after that, you will be required to wear a mask covering your mouth and nose at all times during class. You may briefly remove your mask to drink. Each class session, we will take a 10-minute break after the first 75-80 minutes of class. Please try to eat before or after class, or during the break (outside the room), so that you do not need to remove your mask for long periods of time during class.
 
 ## Course Digital Infrastructure and Creating your own Website
-We will make use of several online systems and program in this course: a course site, a class Google drive folder, and Zoom. The “ENG 612 MLL 772 S22 Digital Infrastructure” doc in our shared class folder on Gdrive will contain the passwords and other information you need to use our course digital systems.
+We will make use of several online systems and program in this course: a course site, a class Google drive folder, and Zoom. The “ENG 612 S22 Digital Infrastructure” doc in our shared class folder on Gdrive will contain the passwords and other information you need to use our course digital systems.
 
 ### Course Site
 We will use this course site to manage course information and our schedule. You will find an online version of our course calendar here (including the most up-to-date version of reading assignments and due dates), as well as information about all course assignments.
@@ -25,7 +25,7 @@ To access our class Google drive folder:
 4.	Click on “Shared with me” in the left-hand menu, where you should see our class folder: “ENG 612 S22”.
 
 ### Zoom
-We will use Zoom for the first two weeks of classes, as well as for office hours and one-on-one meetings (if not meeting outside). The “ENG 612 MLL 772 S22 Digital Infrastructure” document in our class Google drive folder will contain our class Zoom link and our office hours link.
+We will use Zoom for the first two weeks of classes, as well as for office hours and one-on-one meetings (if not meeting outside). The “ENG 612 S22 Digital Infrastructure” document in our class Google drive folder will contain our class Zoom link and our office hours link.
 
 We will not record class sessions or office hours. Our class meeting room will not have a waiting room, but I will enable a waiting room for office hours. You will enter the waiting room first when signing on via our office hours link. I will then let you into the office hours Zoom room. If I do not let you in right away, this is because I am meeting with another student.
 
