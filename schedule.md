@@ -32,7 +32,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 4: What Gets Counted Counts,"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Sarah Wilson, "Black Folk by the Numbers: Quantification in Du Bois," *American Literary History* (2016)
 - Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads," *Social Text* (2018)
-    - Familiarize yourself with the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}<br>
+    - Familiarize yourself with the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}<br/>
 - [Lab 2: Spreadsheets](https://lindsaythomas.net/eng612s22/labs/lab-2/){:target="_blank"}
 
 ## Week 4: Collecting, Organizing, and Cleaning Data
@@ -63,7 +63,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - **Lab 4 notebook entry due**
 - Taylor Arnold and Lauren Tilton, ["New Data? The Role of Statistics in DH,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24){:target="_blank"} from *Debates in the Digital Humanities 2019*
 - Richard Jean So, "'All Models are Wrong,'" *PMLA* (2017)
-- Benjamin M. Schmidt, ["Do Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
+- Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
 -  Jo Guldi, ["Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora,"](https://culturalanalytics.org/article/11028){:target="_blank"} *Journal of Cultural Analytics* (2018)
 - Laura Nelson, "Computational Grounded Theory: A Methodological Framework," *Sociological Methods & Research* (2017)
 - [Lab 5: Exploratory Data Analysis II](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
