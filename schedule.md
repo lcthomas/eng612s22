@@ -16,6 +16,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Kelly Baker Josephs and Roopika Risam, ["The Digital Black Atlantic,"](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro){:target="_blank"} from *The Digital Black Atlantic* (2021)
 -   [Lab 1: GitHub and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
 
+
 ## Week 2: What is Data? What is Digital Scholarship?
 ### Wednesday, January 26
 - Daniel Rosenberg, "Data Before the Fact," from *"Raw Data" is an Oxymoron* (2013)
