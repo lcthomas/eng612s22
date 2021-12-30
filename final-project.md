@@ -6,6 +6,7 @@ title: Final Project
 -   Abstract: Wed, April 6
 -   4-5 minute presentation of final project in progress: Wed, April 27
 -   Proof-of-concept dataset, codebook, and critical introduction: finals week (date TBD by class)
+-   Final self-assessment: finals week (same time as final project; email me your self-assessment individually)
 
 Your final project in this class is a scholarly dataset and a critical introduction to that dataset. You may work with other members of the class to complete the final project. If working with others, your team will turn in 1 copy of your proof-of-concept dataset (i.e., you don't each have to turn it in to me). You will also have a choice about how you would like to write your critical introduction: each member of your team may write their own, or, alternatively, you may turn in a collaboratively written critical introduction (or some combination of these two options). If you opt to collaborate with others on the final project, it will be important for your team to discuss with me how you plan to organize your labor so that all members contribute equally to the final product.
 
