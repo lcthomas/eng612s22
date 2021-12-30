@@ -60,3 +60,6 @@ You should name your critical introduction using the following convention:
 -   YYYY-MM-DD-finalproject-WHAT-WORDS-YOU-WANT.md
 
 ## Final Self-Assessment
+Please assess your effort and performance across in-class discussions and the course assignments as they relate to the goals you set for yourself, your work to meet those goals, and your intellectual growth during the semester. If you collaborated with others on  your final project, please also include an assessment of your contributions to the final project. Finally, please include the letter grade you would give yourself for the semester. There is no specific length requirement, but you should be detailed and specific.
+
+Each member of the class should individually email me their final self-assessment when they submit their final project (i.e., do not post your self-assessment to your website).
