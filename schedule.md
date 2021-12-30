@@ -76,7 +76,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Andrew Prescott and Lorna Hughes, "[Why Do We Digitize?: The Case for Slow Digitization,"](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/){:target="_blank"} *Archive Journal* (2018)
 - Thomas Padilla, ["On A Collections As Data Imperative,"](https://escholarship.org/uc/item/9881c8sv#main){:target="_blank"} Library of Congress (2017)
 - Jennifer Guliano and Carolyn Heitman, ["Difficult Heritage and The Complexities of Indigenous Data,"](https://culturalanalytics.org/article/11041-difficult-heritage-and-the-complexities-of-indigenous-data){:target="_blank"} *Journal of Cultural Analytics* (2019)
-- Miriam Posner and Marika Cifor, ["Generative Tensions: Building a Digital Project on Early African American Race Film,"](https://muse-jhu-edu.revproxy.brown.edu/article/704358#info_wrap){:target="_blank"} *American Quarterly* (2018)
+- Miriam Posner and Marika Cifor, ["Generative Tensions: Building a Digital Project on Early African American Race Film,"] *American Quarterly* (2018)
     - Familiarize yourself with the [Race Film Database](https://zenodo.org/record/160585#.YcHs8SxOmLc){:target="_blank"}
 - The Colored Conventions Project:
     - P. Gabrielle Foreman, Sarah Patterson, and Jim Casey, ["Introduction to the Colored Conventions Movement"](https://coloredconventions.org/introduction-movement/){:target="_blank"}
