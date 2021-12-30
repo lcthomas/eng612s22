@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Policies and Grading
+title: Course Policies
 ---
 ## COVID Disclaimer
 As we all know, times are tough. This is a demanding course, and while I have tried to adjust the course policies and expectations to account for the times, I’m certain I have not imagined every situation that may arise or accounted fully for every challenge you may be facing this semester. Please know, without a doubt, that your health and the health of your friends and family will always be more important to me than this course. You do not have to apologize to me if we need to find an alternate path for you through this course, or if you need more time to complete something. I want to support you, and I want you to communicate with me about how I can do that better.
@@ -40,34 +40,3 @@ We will be doing some coding in Python in this class, and we will also be workin
 About 10 years ago, there was some debate in the digital humanities about whether people “need” to code in order to do DH. You do not need to code to do DH, at all, mainly because “doing DH” involves a wide variety of practices, only a few of which this course will cover. Working with data – including collecting humanities datasets, curating online archives, and doing computational research and/or criticism – by no means constitutes the entirety of “doing DH.” There are also many GUI (graphical-user interface) tools designed to accomplish some tasks in data management and/or analysis (including Excel, ArcGIS, Gephi, the GUI topic modeling tool, etc). Generally speaking, these tools require no coding. However, the argument of this class is that achieving some level of technical literacy, however basic, is advantageous because it gives you a baseline for understanding – and for potentially being able to implement – new and unfamiliar developments in humanities data work. It also (gently, I hope!) encourages you to “get your hands dirty” by trying things out and, inevitably, by experiencing and overcoming failure and frustration.
 
 If you take away only one thing about the technical side of working with data in the humanities from this class, I hope it is that you can absolutely teach yourself the technical skills you need to do the research you want, even if you think you are not a “technical person.” There is no way that I can teach you every technical skill you might need to work with data in the humanities; there are simply too many different things one can do, and technical skills, methods, and platforms change very quickly. However, my hope is that in introducing you to some basics, you will learn that there is nothing special about learning to work with data in the humanities, and that given time and effort, you can learn to do it, too.
-
-## Consultative Grading
-I have borrowed the philosophy and much of the language in this section from Ryan Cordell, whose experiments in contract and consultative grading I have been following for a couple of years now.
-
-Grading, especially in a graduate course, is not an accurate reflection of your learning or your abilities. It also does not resemble how you will be evaluated in your careers, where you will define many of your own goals and be assessed by how effectively you achieve them. For these reasons, last semester, I tried contract grading for the first time in my undergraduate course. It worked well, and I want to adapt this system for our graduate course this semester; adopting Cordell’s terminology, we will call it “consultative grading.” My hope is that this system will encourage you to take ownership over your own work, ensuring that it meets professional (or, perhaps more accurately, professional-in-training) standards, while also allowing room for flexibility, experimentation, and even failure.
-
-Throughout the semester, you will assess your work in the course in dialogue with me, as mentor rather than judge. Since the university will ultimately require me to assign a grade to your work at the end of the semester, you will grade your own work by assessing your effort and performance across the course assignments as they relate to the goals you set for yourself, your work to meet those goals, and your intellectual growth during the class. Formally, this means that I will ask you to draft a statement of your goals at the beginning of the semester and then to draft self-evaluations two times during the semester. This will include a final self-evaluation through which you will assign yourself a grade. Barring extreme circumstances (see the Adjustment Caveat below) this self-assessment will determine your grade for the semester. Ideally, knowing this process in advance will free you to do more ambitious work from the beginning of the semester.
-
-### My Commitments
-To foster your progress this semester, I commit myself to:
-
-1.	Providing substantive and timely commentary on your assignments aimed at cultivating your research skills, analytical abilities, and scholarly voice.
-2.	Making myself available for in-person consultation and practical help during office hours and at other scheduled times, including virtual and in-person meetings (in-person meetings will likely be outside if we can manage it).
-3.	Assuming no prior knowledge of course concepts and no technical expertise from students going into any of our labs. We will begin at the beginning, so that no one feels left behind.
-4.	Allowing students with expertise in particular technologies or skills, or with ongoing projects they wish to continue working on, to challenge themselves and craft their own laboratory experiences and/or final project assignment beyond our work in class.
-5.	Working with you to understand your goals and methods when you take intellectual risks in assignments, even if the final product does not turn out as expected.
-6.	Respecting you, your perspectives, and your intellectual commitments in class discussions and assignments. I may push you to consider other perspectives or ideas, but I will not dismiss your thoughts or take them lightly. If you feel I am doing either of those things, I will listen and adjust my responses as necessary.
-
-### Your Commitments
-This system will only work, however, if you also commit to:
-
-1.	Holding yourself to the highest standards. You should work to the best of your abilities throughout the semester in your reading, in-class conversation, and assignments.
-2.	Taking intellectual risks when possible, pushing yourself to think, write, and create in new modes and grow as a scholar, while also ensuring our course is safe space for experimentation and failure. Push yourself beyond your comfort zone, but also allow yourself – and your class colleagues – to be wrong and to change your mind. This may prompt anxiety, but we can work through this together.
-3.	When completing course readings or assignments and discussing them in class, you should seek to understand first, and to question and critique second, only after you understand.
-4.	Experimenting with new tools and learning new technical skills with an open mind.
-5.	Assisting your colleagues with our labs when you have prior expertise, or if you acquire it more quickly during the lab itself.
-6.	Respecting your colleagues and their perspectives and intellectual commitments in class discussions and assignments. You may push them to consider other perspectives, but you should not dismiss their thoughts or take them lightly. If someone feels you are doing either of those things, you should listen and adjust your responses as necessary.
-7.	Meeting with me, in person or via Zoom, at least once during the semester to discuss your work and ensure you are meeting expectations (my own and yours) for work in the class.
-
-### Adjustment Caveat
-I reserve the right to adjust grades as appropriate if a student takes undue advantage of the consultative grading paradigm. However, I do not anticipate needing to exercise this right.
