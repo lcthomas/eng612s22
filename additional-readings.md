@@ -38,7 +38,7 @@ Here you will find additional readings that there wasn’t space for on the cour
 
 ## Data and Computation in Literary Studies
 - Several books in literary studies utilizing computation, data, and/or quantitative methods have been published over the past 5-10 years. Some of them include:
-  - Andrew Piper, *Enumerations: Data and Literary Study* (University of Chicago, 2018)
+   - Andrew Piper, *Enumerations: Data and Literary Study* (University of Chicago, 2018)
 	 - Ted Underwood, *Distant Horizons: Digital Evidence and Literary Change* (University of Chicago, 2019)
 	 - Richard Jean So, *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (Columbia UP, 2020) (we are reading the intro and ch 1 in this class)
    - Ryan Cordell, David A. Smith, Abby Mullen, Jonathan D. Fitzgerald, Avery Blankenship, [*Going the Rounds: Virality in Nineteenth-Century Newspapers*](https://manifold.umn.edu/projects/going-the-rounds){:target="_blank"} (2019-2020)
