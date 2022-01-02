@@ -38,10 +38,10 @@ Here you will find additional readings that there wasn’t space for on the cour
 
 ## Data and Computation in Literary Studies
 - Several books in literary studies utilizing computation, data, and/or quantitative methods have been published over the past 5-10 years. Some of them include:
-    - Andrew Piper, *Enumerations: Data and Literary Study* (University of Chicago, 2018)
-		- Ted Underwood, *Distant Horizons: Digital Evidence and Literary Change* (University of Chicago, 2019)
-		- Richard Jean So, *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (Columbia UP, 2020) (we are reading the intro and ch 1 in this class)
-    - Ryan Cordell, David A. Smith, Abby Mullen, Jonathan D. Fitzgerald, Avery Blankenship, [*Going the Rounds: Virality in Nineteenth-Century Newspapers*](https://manifold.umn.edu/projects/going-the-rounds){:target="_blank"} (2019-2020)
+  - Andrew Piper, *Enumerations: Data and Literary Study* (University of Chicago, 2018)
+	 - Ted Underwood, *Distant Horizons: Digital Evidence and Literary Change* (University of Chicago, 2019)
+	 - Richard Jean So, *Redlining Culture: A Data History of Racial Inequality and Postwar Fiction* (Columbia UP, 2020) (we are reading the intro and ch 1 in this class)
+   - Ryan Cordell, David A. Smith, Abby Mullen, Jonathan D. Fitzgerald, Avery Blankenship, [*Going the Rounds: Virality in Nineteenth-Century Newspapers*](https://manifold.umn.edu/projects/going-the-rounds){:target="_blank"} (2019-2020)
 - Ryan Cordell, “Reprinting, Circulation, and the Network Author in Antebellum Newspapers,” *American Literary History* (2015)
 - Hoyt Long and Richard Jean So, “Turbulent Flow: A Computational Model of World Literature,” *Modern Language Quarterly* (2016)
 - Andrew Piper and Eva Portelance, [“How Cultural Capital Works: Prizewinning Novels, Bestsellers, and the Time of Reading,”](https://post45.org/2016/05/how-cultural-capital-works-prizewinning-novels-bestsellers-and-the-time-of-reading/) *Post45* (2016)
