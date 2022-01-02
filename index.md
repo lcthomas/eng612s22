@@ -3,6 +3,7 @@ layout: page
 title: Topics in DH: Humanities Data
 ---
 # Topics in DH: Humanities Data
+[Download pdf of syllabus](https://lindsaythomas.net/eng612s22/eng612-syllabus-s22.pdf)
 
 ## Spring 2022
 Wednesdays, 2-4:30 pm<br>
