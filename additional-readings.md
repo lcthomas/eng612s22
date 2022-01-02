@@ -29,7 +29,7 @@ Here you will find additional readings that there wasn’t space for on the cour
 - Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* (2017)
 - Katherine Bowers, Quinn Dombrowski, and Roopika Risam, ["DSC #12: The DSC and the New Programming Language,"](https://datasittersclub.github.io/site/dsc12.html){:target="_blank"}, from *The Data-Sitters Club* (Nov 2, 2021)
 - Fotis Jannidis and Julia Flanders, ["A gentle introduction to data modeling,"](https://web-p-ebscohost-com.access.library.miami.edu/ehost/ebookviewer/ebook/bmxlYmtfXzE5MjYzNDFfX0FO0?sid=9b378071-fc7a-4d1c-859b-942d3dfcdb24@redis&vid=0&format=EB&lpid=lp_26&rid=0){:target="_blank"}, from *The Shape of Data in Digital Humanities* (2019)
-    - This link will take you to this chapter on EBSCO e-books. If the link doesn't work for you, you can search for the collection *The Shape of Data in Digital Humanities" via [our library](https://www.library.miami.edu/){:target="_blank"} and access the e-book that way.
+    - This link will take you to this chapter on EBSCO e-books. If the link doesn't work for you, you can search for the collection *The Shape of Data in Digital Humanities* via [our library](https://www.library.miami.edu/){:target="_blank"} and access the e-book that way.
 - *Data-Sitters Club* books 8-11 (each explores a different method of text analysis):
     - Quinn Dombrowski, ["DSC 8: Text-Comparison-Algorithm-Crazy Quinn,"](https://datasittersclub.github.io/site/dsc8.html){:target="_blank"} (Oct 21, 2020)
     - Anouk Lang and Quinn Dombrowski with Annie K. Lamar, ["The Ghost in Anouk's Laptop"](https://datasittersclub.github.io/site/dsc9.html){:target="_blank"} (Feb 17, 2021)
