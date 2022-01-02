@@ -6,7 +6,7 @@ title: Topics in DH: Humanities Data
 
 ## Spring 2022
 Wednesdays, 2-4:30 pm<br>
-MB 205
+MB 205 (via Zoom until Jan 31)
 
 ## Lindsay Thomas
 <lindsaythomas@miami.edu>, <lxt308@miami.edu><br>

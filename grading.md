@@ -12,7 +12,7 @@ Throughout the semester, you will assess your work in the course in dialogue wit
 To foster your progress this semester, I commit myself to:
 
 1.	Providing substantive and timely commentary on your assignments aimed at cultivating your research skills, analytical abilities, and scholarly voice.
-2.	Making myself available for in-person consultation and practical help during office hours and at other scheduled times, including virtual and in-person meetings (in-person meetings will likely be outside if we can manage it).
+2.	Making myself available for in-person consultation and practical help during office hours and at other scheduled times, including virtual and in-person meetings (in-person meetings will be outside if we can manage it, after the first two weeks of classes).
 3.	Assuming no prior knowledge of course concepts and no technical expertise from students going into any of our labs. We will begin at the beginning, so that no one feels left behind.
 4.	Allowing students with expertise in particular technologies or skills, or with ongoing projects they wish to continue working on, to challenge themselves and craft their own laboratory experiences and/or final project assignment beyond our work in class.
 5.	Working with you to understand your goals and methods when you take intellectual risks in assignments, even if the final product does not turn out as expected.
@@ -23,11 +23,11 @@ This system will only work, however, if you also commit to:
 
 1. Holding yourself to the highest standards. You should work to the best of your abilities throughout the semester in your reading, in-class conversation, and assignments.
 2.	Taking intellectual risks when possible, pushing yourself to think, write, and create in new modes and grow as a scholar, while also ensuring our course is safe space for experimentation and failure. Push yourself beyond your comfort zone, but also allow yourself – and your class colleagues – to be wrong and to change your mind. This may prompt anxiety, but we can work through this together.
-3.	When completing course readings or assignments and discussing them in class, you should seek to understand first, and to question and critique second, only after you understand.
+3.	Seeking to understand first, and to question and critique second, only after you understand. This applies to everything we do in this class, from course readings, to discussing them in class, to completing assignments and sharing them with your colleagues.
 4.	Experimenting with new tools and learning new technical skills with an open mind.
 5.	Assisting your colleagues with our labs when you have prior expertise, or if you acquire it more quickly during the lab itself.
 6.	Respecting your colleagues and their perspectives and intellectual commitments in class discussions and assignments. You may push them to consider other perspectives, but you should not dismiss their thoughts or take them lightly. If someone feels you are doing either of those things, you should listen and adjust your responses as necessary.
-7.	Meeting with me, in person or via Zoom, at least once during the semester to discuss your work and ensure you are meeting expectations (my own and yours) for work in the class.
+7.	Meeting with me, in person or via Zoom, at least once during the semester to discuss your work and ensure you are meeting expectations (mine and yours) for work in the class.
 
 ### Adjustment Caveat
 I reserve the right to adjust grades as appropriate if a student takes undue advantage of the consultative grading paradigm. However, I do not anticipate needing to exercise this right.

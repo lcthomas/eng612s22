@@ -39,20 +39,19 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 4: Collecting, Organizing, and Cleaning Data
 ### Wednesday, February 9
 - **Lab 2 notebook entry due by class**
-- Catherine D'Ignazio and Lauren F. Klein, ["Ch. 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars"](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/2){:target="_blank"} from *Data Feminism* (2020)
-- Quinn Dombrowski, ["DSC \#1: Quinn\'s Great Idea,"](https://datasittersclub.github.io/site/dsc1.html){:target="_blank"} from *The Data-Sitters Club* (Nov 7, 2019)
-- Katherine Bowers and Quinn Dombrowski, ["DSC \#2: Katia and the Phantom Corpus,"](https://datasittersclub.github.io/site/dsc2.html){:target="_blank"} from *The Data-Sitters Club* (Dec 12, 2019)
 - Katie Rawson and Trevor Muñoz, ["Against Cleaning,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
+- Catherine D'Ignazio and Lauren F. Klein, ["Ch. 5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars"](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/3){:target="_blank"} from *Data Feminism* (2020)
 - Ryan Cordell, ["Why You\...Should Care About OCR"](https://ryancordell.org/research/why-ocr/){:target="_blank"} (Jan 19, 2019)
     - Skim report: David A. Smith and Ryan Cordell, ["A Research Agenda for Historical and Multilingual Optical Character Recognition"](https://ocr.northeastern.edu/report/){:target="_blank"} (2018)
-- Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously," *Book History* (2017)
+- Quinn Dombrowski, ["DSC \#1: Quinn\'s Great Idea,"](https://datasittersclub.github.io/site/dsc1.html){:target="_blank"} from *The Data-Sitters Club* (Nov 7, 2019)
+- Katherine Bowers and Quinn Dombrowski, ["DSC \#2: Katia and the Phantom Corpus,"](https://datasittersclub.github.io/site/dsc2.html){:target="_blank"} from *The Data-Sitters Club* (Dec 12, 2019)
 - [Lab 3: RegEx](https://lindsaythomas.net/eng612s22/labs/lab-3/){:target="_blank"}
 
 ## Week 5: Understanding Data I
 ### Wednesday, February 16
 - **Lab 3 notebook entry due by class (Lab notebook check: Lindsay will give individual feedback on labs 1-3 after this class)**
-- Sarah Allison, ["Other People's Data: Humanities Edition,"](https://culturalanalytics.org/article/11822){:target="_blank"} *Journal of Cultural Analytics* (2016)
 - Julia Flanders and Fotis Jannidis, "Data modeling in a digital humanities context" from *The Shape of Data in Digital Humanities* (2019)
+- Sarah Allison, ["Other People's Data: Humanities Edition,"](https://culturalanalytics.org/article/11822){:target="_blank"} *Journal of Cultural Analytics* (2016)
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch. 6: The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2){:target="_blank"} from *Data Feminism* (2020)
 - Maria Sachiko Cecire, ["DSC \#3: The Truth About Digital Humanities Collaborations (and Textual Variants!)",](https://datasittersclub.github.io/site/dsc3.html){:target="_blank"} from *The Data-Sitters Club* (Jan 10, 2020)
 - Anouk Lang, ["DSC \#4: AntConc Saves the Day,"](https://datasittersclub.github.io/site/dsc4.html){:target="_blank"} from *The Data-Sitters Club* (April 10, 2020)
@@ -113,7 +112,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Laura B. McGrath, ["America\'s Next Top Novel,"](https://post45.org/2020/04/americas-next-top-novel/){:target="_blank"} *Post45* (2020)
 - Richard Jean So, ["Contemporary Culture After Data Science,"](https://culturalanalytics.org/article/22335-introduction-contemporary-culture-after-data-science){:target="_blank"} *Journal of Cultural Analytics* (2021) (introduction to special issue that includes Sinykin and Roland's article below)
 - Dan Sinykin and Edwin Roland, ["Against Conglomeration,"](https://culturalanalytics.org/article/22331-against-conglomeration){:target="_blank"} *Journal of Cultural Analytics* (2021)
-- Contribute 1 reading to class Google doc of readings for next week (can include a digital project/archive, but be specific about what you want people to read/explore)
+- Contribute 1 reading to class Google doc of readings for next week (can contribute a digital project/archive, but be specific about what you want people to read/explore)
 
 ## Week 11: Data and Computation in the Humanities
 ### Wednesday, March 30
