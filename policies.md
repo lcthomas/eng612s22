@@ -15,7 +15,7 @@ We will make use of several online systems and program in this course: a course 
 We will use this course site to manage course information and our schedule. You will find an online version of our course calendar here (including the most up-to-date version of reading assignments and due dates), as well as information about all course assignments.
 
 ### Google Drive
-We will also use a shared class Google drive folder to distribute course readings and other materials. Every UM student, staff, and faculty member has free access to Google Drive, but you will need to sign in to Google Drive using your UM email and password. At the beginning of the semester, I will share you into this folder. We will use this folder to store to distribute course readings and other course materials and information. To protect your privacy, you will need to sign in to Google drive using your UM CaneID and password, and to use this account when working on materials related to this class. You will be shared into our class Gdrive folder via your UM email address.
+We will also use a shared class Google drive folder to distribute course readings and other materials. Every UM student, staff, and faculty member has free access to Google Drive, but you will need to sign in to Google Drive using your UM email and password. At the beginning of the semester, I will share you into this folder via your UM email address.
 
 To access our class Google drive folder:
 
