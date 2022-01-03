@@ -22,7 +22,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Daniel Rosenberg, "Data Before the Fact," from *"Raw Data" is an Oxymoron* (2013)
 - Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism,"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 2: Collect, Analyze, Imagine, Teach,"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
-- Flanders and Muñoz, ["An Introduction to Humanities Data Curation,"](https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/glossary/intro/index.html){:target="_blank"} from *DH Data Curation*
+- Julia Flanders and Trevor Muñoz, ["An Introduction to Humanities Data Curation,"](https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/glossary/intro/index.html){:target="_blank"} from *DH Data Curation*
 - Lara Putnam, "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast," *The American Historical Review* (2016)
 - [Lab 1, con\'t: Publishing Your Website](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
 
