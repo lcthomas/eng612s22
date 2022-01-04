@@ -89,6 +89,17 @@ Now you are going to copy the files in your website repository to your own compu
 ## Eleven: Edit a page on your machine, commit, and push to GitHub using GitHub Desktop
 Now your website files exist on your computer as well as on GitHub's servers. This means you can edit and create files locally and push them to GitHub. Open up the sample page we created earlier on your computer, using the Markdown application you downloaded and installed. Make a small but noticeable change. Then, open up GitHub Desktop and confirm that it lists the name of your website repository under "Current Repository" in the top left and the correct branch under "Current Branch" (for most of you, this will likely be the "master" branch).
 
-The name of the file you edited should show up under "Changes," and the changes should display in the right panel. Make sure that file is selected. On the bottom left, where it says "Summary," you can write a brief commit message, then press "Commit to \[name of branch here\]". Finally, up toward the top of GitHub Pages, 
+The name of the file you edited should show up under "Changes," and the changes should display in the right panel. Make sure that file is selected. On the bottom left, where it says "Summary," you can write a brief commit message, then press "Commit to \[name of branch here\]". Finally, up toward the top of GitHub Pages, you will see a tab that is now named "Push origin." Click that tab to push your changes to GitHub's servers. Within a few minutes, your changes should display on your website.
 
-## Statement of Goals
+## Lab Notebook Entry and Statement of Goals
+Due:
+- By class on Wed, Feb 2
+
+After completing the above steps, you are ready to start publishing posts to your website. First, make sure to email me your website address as well as the link to its attendant repository on GitHub. If you are using a GitHub Pro account and have made your repository private, please make sure you have shared it with me (I am [lcthomas](https://github.com/lcthomas){:target="_blank"} on GitHub). If your repository is public, please let me know if you give me permission to post your website address in a document in our class Google drive folder so that other members of the class may read your posts, as well (note: because this document will only be available via our shared Google drive folder, people outside of this class will not have access to this list). My hope is that sharing your posts with your colleagues will foster community, not competition, and that it will help to build a sense that the writing you do in this class can find an audience beyond me.
+
+Next, you will create your first lab notebook entry. Make sure to format the filename as I describe at the bottom of the [lab notebook assignment page](https://lindsaythomas.net/eng612s22/lab-notebook/){:target="_blank"}. In this lab notebook entry, you should include the following 2 things:
+
+1. A description of any points in the above process that were confusing, difficult, frustrating, etc and/or any parts you weren't able to complete, as well as a description of how you overcame or worked around these challenges.
+2. A statement and brief description of your goals for this class for the semester. These goals can range from the technical to the conceptual/intellectual, and they can concern readings, in-class discussion, assignments, and/or your general growth as a scholar and a teacher. What do you want to learn, do, discover, feel, know, etc by the end of this course? There is no specific number of goals you should have, but they should be thoughtful, specific, and accomplishable.
+
+Unlike your other lab notebook entries, you do not need to cite any readings from class in this notebook entry. There is no specific length requirement, but your entry should be full and thoughtful.
