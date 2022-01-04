@@ -14,7 +14,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Lauren F. Klein and Matthew K. Gold, ["Digital Humanities: The Expanded Field,"](https://dhdebates.gc.cuny.edu/read/untitled/section/14b686b2-bdda-417f-b603-96ae8fbbfd0f#intro){:target="_blank"} from *Debates in the Digital Humanities 2016* (2016)
 - Matthew K. Gold and Lauren F. Klein, ["A DH That Matters,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0cd11777-7d1b-4f2c-8fdf-4704e827c2c2#intro){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 - Kelly Baker Josephs and Roopika Risam, ["The Digital Black Atlantic,"](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/04315759-6622-466b-b23f-0b2a565b4f81#intro){:target="_blank"} from *The Digital Black Atlantic* (2021)
--   [Lab 1: GitHub Page and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
+-   [Lab 1: GitHub Pages and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
 
 
 ## Week 2: What is Data? What is Digital Scholarship?
@@ -24,7 +24,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 2: Collect, Analyze, Imagine, Teach,"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Julia Flanders and Trevor Muñoz, ["An Introduction to Humanities Data Curation,"](https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/glossary/intro/index.html){:target="_blank"} from *DH Data Curation*
 - Lara Putnam, "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast," *The American Historical Review* (2016)
-- [Lab 1, con\'t: GitHub Page and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
+- [Lab 1, con\'t: GitHub Pages and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
 
 ## Week 3: An Impossible View from Nowhere (or, on objectivity and quantification)
 ### Wednesday, February 2
