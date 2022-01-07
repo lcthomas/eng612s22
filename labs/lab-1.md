@@ -52,7 +52,7 @@ If you're new to this or just want to get this part over quickly, I recommend us
 
 Once you’ve found a theme you like, we will fork the repository. Don’t worry if that phrase sounds like nonsense: we’ll do it together and I’ll explain what it means. Note: Some themes (such as Poole) may include instructions to fork specific branches; otherwise, fork the "master" branch. If you are using Beautiful Jekyll or TeXt Theme, you can follow along with these instructions:
 - Beautiful Jekyll: [Follow the steps under "The easy way (recommended)" on the repo's README.md file.](https://github.com/daattali/beautiful-jekyll/tree/master){:target="_blank"}
-- TeXt Theme: Do **just**step 3 under "Common Method" on the [Quick Start page](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start).
+- TeXt Theme: Do **just** step 3 under "Common Method" on the [Quick Start page](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start).
 
 After forking, click on the "Settings" tab. **If you DO NOT already have a personal GitHub Pages website**, under "Repository name," change the name of your repository to `your-github-username.github.io` (for example, my GitHub account name is `lcthomas` so mine would be `lcthomas.github.io`). This tells GitHub to map this repo to this address (the standard GitHub pages address for every account). **If you DO already have a personal GitHub pages website**, this won't work; you should give this repository the name you want and map it as a subdomain to your existing personal site (if this doesn't make sense to you let me know).
 
