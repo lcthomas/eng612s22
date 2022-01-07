@@ -20,11 +20,11 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 2: What is Data? What is Digital Scholarship?
 ### Wednesday, January 26
 - Daniel Rosenberg, "Data Before the Fact," from *"Raw Data" is an Oxymoron* (2013)
-- Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism,"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch 2: Collect, Analyze, Imagine, Teach,"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 - Julia Flanders and Trevor Muñoz, ["An Introduction to Humanities Data Curation,"](https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/glossary/intro/index.html){:target="_blank"} from *DH Data Curation*
 - Lara Putnam, "The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast," *The American Historical Review* (2016)
 - [Lab 1, con\'t: GitHub Pages and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
+- Recommended: Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism,"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 
 ## Week 3: An Impossible View from Nowhere (or, on objectivity and quantification)
 ### Wednesday, February 2
@@ -54,8 +54,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Sarah Allison, ["Other People's Data: Humanities Edition,"](https://culturalanalytics.org/article/11822){:target="_blank"} *Journal of Cultural Analytics* (2016)
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch. 6: The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2){:target="_blank"} from *Data Feminism* (2020)
 - Maria Sachiko Cecire, ["DSC \#3: The Truth About Digital Humanities Collaborations (and Textual Variants!)",](https://datasittersclub.github.io/site/dsc3.html){:target="_blank"} from *The Data-Sitters Club* (Jan 10, 2020)
-- Anouk Lang, ["DSC \#4: AntConc Saves the Day,"](https://datasittersclub.github.io/site/dsc4.html){:target="_blank"} from *The Data-Sitters Club* (April 10, 2020)
-- Katherine Bowers, ["DSC \#6: Voyant\'s Big Day,"](https://datasittersclub.github.io/site/dsc6.html){:target="_blank"} from *The Data-Sitters Club* (Sept 15, 2020)
+- Skim both of the below *Data-Sitters Club* books, but select just 1 to read in detail:
+    - Anouk Lang, ["DSC \#4: AntConc Saves the Day,"](https://datasittersclub.github.io/site/dsc4.html){:target="_blank"} from *The Data-Sitters Club* (April 10, 2020)
+    - Katherine Bowers, ["DSC \#6: Voyant\'s Big Day,"](https://datasittersclub.github.io/site/dsc6.html){:target="_blank"} from *The Data-Sitters Club* (Sept 15, 2020)
 - [Lab 4: Exploratory Data Analysis I](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"}
 
 ## Week 6: Understanding Data II
@@ -63,11 +64,11 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - **Lab 4 notebook entry due**
 - Taylor Arnold and Lauren Tilton, ["New Data? The Role of Statistics in DH,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24){:target="_blank"} from *Debates in the Digital Humanities 2019*
 - Richard Jean So, "'All Models are Wrong,'" *PMLA* (2017)
-- Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
 -  Jo Guldi, ["Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora,"](https://culturalanalytics.org/article/11028){:target="_blank"} *Journal of Cultural Analytics* (2018)
 - Laura Nelson, "Computational Grounded Theory: A Methodological Framework," *Sociological Methods & Research* (2017)
 - [Lab 5: Exploratory Data Analysis II](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
     - Come to class having selected the scholarly dataset you will use for labs 5 and 6 (see the last section of [Lab 4](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"})
+- Recommended: Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
 
 ## Week 7: Digital Archives
 ### Wednesday, March 2
