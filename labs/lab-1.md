@@ -56,7 +56,7 @@ Once you’ve found a theme you like, we will fork the repository. Don’t worry
 
 After forking, click on the "Settings" tab. **If you DO NOT already have a personal GitHub Pages website**, under "Repository name," change the name of your repository to `your-github-username.github.io` (for example, my GitHub account name is `lcthomas` so mine would be `lcthomas.github.io`). This tells GitHub to map this repo to this address (the standard GitHub pages address for every account). **If you DO already have a personal GitHub pages website**, this won't work; you should give this repository the name you want and map it as a subdomain to your existing personal site (if this doesn't make sense to you let me know).
 
-In the future, if you would like to purchase a custom domain (such as mine: <https://lindsaythomas.net>), you can also map that domain to your GitHub pages site. See [this page for more information on mapping a custom domain to your GitHub pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site){:target="_blank"} for more information.
+In the future, if you would like to purchase a custom domain (such as mine: <https://lindsaythomas.net>), you can also map that domain to your GitHub pages site. See [this page for more information on mapping a custom domain to your GitHub pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site){:target="_blank"}.
 
 ## Five: Review your site's structure
 Once everyone has their own GitHub Pages repository, we will spend some time studying the structure of a Jekyll website together. I will show you where to find the files for static pages, blog posts, and basic configuration files.
