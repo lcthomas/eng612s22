@@ -48,7 +48,7 @@ testemail@mail.co.uk
 ```
 Then, copy and paste the email regex above into the "Regular Expression" box. What worked, and what didn't? Why? We will walk through how this matching happens and discuss any that don’t work together. We’ll also experiment with some other regex that accomplish the same task:
 
-`([A-Za-z0-9._%+-]+)@([A-Za-z0-9-]+)\.([A-Za-z.]+)`
+`([A-Za-z0-9._%+-]+)@([A-Za-z0-9-]+)\.([A-Za-z.]+)`<br/>
 `(.*)@(.*)\.(.*)`
 
 We'll also talk about using regex to make substitutions, replacing each instance of `gmail` in our data with `hotmail`, and then replacing each suffix after the final period with `.org`.
@@ -100,19 +100,24 @@ In your lab notebook entry for this week, you should include the following thing
 1. The regex's used to clean the data in step three above (or, if you just couldn't reach the goal, to come as near as you could get to our goal). There is no one right answer here; a variety of regex sequences will work.
 2. A response to the following prompt: Describe your experience working with regular expressions in this week's lab in relation to at least one of our readings assigned for this week (week 4). This discussion should be specific but it needn't be long (i.e., 2-4 paragraphs).
 
+---
+
 ## Basic Search-Replace Operations
 The following guide to basic regex operators was adapted from Cordell's lab, which itself is an adaptation of Ben Schmidt’s RegEx exercise in his 2015 Humanities Data Analysis Course.
 
 ### Basic Operators
 `*`, `?` and `+`
+
 - `*` matches the preceding character **any number of times**, including no times at all.
 - `+` matches the preceding expression **at least one time**.
 - `?` matches the preceding expression exactly **zero or one times**.
 
 `[]`
+
 You can use brackets to indicate a range of characters, as in the email address example above. The regex in the first bracket (`[A-Za-z0-9._%+-]`) refers to any alphanumeric character as well as the following punctuation marks: ., %, +, -. You can also use brackets to extend more functionality to your search. Suppose you are searching through the Schmidt family records, but learn that 18th century families often spelled the name “Schmitt.” The regular expression `Schmi[td]t` would match either spelling (because in using this regex, you are saying that either a `t` or a `d` can go in that place).
 
 `()`
+
 Parenthesis let you group a set of characters together. That is useful with replacements, described below: but it also lets you apply the operators above to groups of words. So suppose you have a document full of references to John Quincy Adams, but that it sometimes calls him “John Q. Adams” and sometimes “John Quincy Adams.” If you want to standardize, you want to make the whole “uincy” field optional. You can do this by searching for the following regex:
 
 `John Q(uincy)?.? Adams`
@@ -120,6 +125,7 @@ Parenthesis let you group a set of characters together. That is useful with repl
 Note that you need the period too, or else it won’t match for John Q. Adams.
 
 `.`
+
 One last special character is the period, which matches any single character.
 
 The most capacious regex of all is `.*`, which tells the parser to match “any character any number of times.” There are situations where this can be useful, particularly inside another regex.
@@ -138,7 +144,7 @@ The syntax for replacing a regex will change from language to language, but the 
 ### Escaping special characters
 Sometimes, of course, you’ll actually want to search for a bracket, parenthesis, or other special character that appear in the text of your data.
 
-To describe a literal bracket in a regex, you use the so-called “escape character”: the backslash, `\\`. “Escaping” a character means putting a backslash in front of it, so that it takes a special meaning. To represent a literal period, for example, you’d have to specify the regex `\.`. The backslash is hardly ever used in normal writing, so it makes a safe choice for this: but you can always “escape” even the backslash itself, by prefacing it with another backslash: `\\`
+To describe a literal bracket in a regex, you use the so-called “escape character”: the backslash, `\`. “Escaping” a character means putting a backslash in front of it, so that it takes a special meaning. To represent a literal period, for example, you’d have to specify the regex `\.`. The backslash is hardly ever used in normal writing, so it makes a safe choice for this: but you can always “escape” even the backslash itself, by prefacing it with another backslash: `\\`
 
 ### Group matches
 In addition to escaping those special characters, regexes also allow you to create other special characters. The most powerful ones, and the ones best worth knowing, take their meaning from the context of the regular expression.
@@ -149,13 +155,26 @@ If you wanted to replace every occurrence of “ba” in a text with “ab,” s
 
 `s/ba/ab/`
 
+Or, translated into the "Find"/"Replace" structure of RegEx 101:
+
+Regular Expression: `ba` <br/>
+Substitution: `ab`
+
 But what if you actually want to swap any two letters?
 
-`s/(b)(a)/\2\1/` does the same thing, but more generally. You could put anything into the parentheses.
+`s/(b)(a)/\2\1/` does the same thing, but more generally. You could put anything into the parentheses. Here's that translated into RegEx 101 terms:
+
+Regular Expression: `(b)(a)` <br/>
+Substitution: `\2\1`
 
 Say you wanted to reformat a list of names from Firstname Lastname format to Lastname, Firstname.
 
 The regex `s/(.*) (.*)/\2, \1/` matches any characters, followed by a space, followed by any characters, and replaces them with the second group and the first group.
+
+In RegEx 101:
+
+Regular Expression: `(.*) (.*)`<br/>
+Substitution: `\2, \1`
 
 ### Creating other special characters.
 Other important special characters come from prefacing letters.
