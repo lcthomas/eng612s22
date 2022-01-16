@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab 2
+title: Lab 2 - Spreadsheets
 ---
 ## Acknowledgments
 The inspiration for this lab is from [Lab 3](https://f20idh.ryancordell.org/2020/09/22/Data-and-Metadata/){:target="_blank"} of Ryan Cordell's Intro to DH course (F20).
