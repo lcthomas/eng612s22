@@ -2,6 +2,12 @@
 layout: page
 title: Lab 1 - GitHub Pages and Markdown
 ---
+This is a footnotes test.[^1]
+This is another footnotes test.[^note]
+
+[^1]: This is note 1.
+[^note]: This is "note" note.
+
 ## Acknowledgments
 Much of this lab is borrowed from [Lab 1](https://f20idh.ryancordell.org/2020/09/10/Github/){:target="_blank"} and [Lab 2](https://f20idh.ryancordell.org/2020/09/16/Jekyll-and-GithubPages/){:target="_blank"} of Ryan Cordell's Intro to DH course (F20).
 
