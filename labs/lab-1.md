@@ -2,12 +2,6 @@
 layout: page
 title: Lab 1 - GitHub Pages and Markdown
 ---
-This is a footnotes test.[^1]
-This is another footnotes test.[^note]
-
-[^1]: This is note 1.
-[^note]: This is "note" note.
-
 ## Acknowledgments
 Much of this lab is borrowed from [Lab 1](https://f20idh.ryancordell.org/2020/09/10/Github/){:target="_blank"} and [Lab 2](https://f20idh.ryancordell.org/2020/09/16/Jekyll-and-GithubPages/){:target="_blank"} of Ryan Cordell's Intro to DH course (F20).
 
@@ -45,6 +39,7 @@ In class, we will use <https://stackedit.io> to experiment with some formatting 
 - The [Markdown Wikipedia page](https://en.wikipedia.org/wiki/Markdown){:target="_blank"}, which includes a very handy chart of the syntax.
 - [John Gruber’s introduction to Markdown](https://daringfireball.net/projects/markdown/syntax){:target="_blank"}. Gruber developed the Markdown standard.
 - [This interactive Markdown tutorial](https://www.markdowntutorial.com/){:target="_blank"}, which will teach you the syntax in a few minutes.
+- Here's [how to create footnotes in Markdown (this should be supported by GitHub pages now; I tested it on our course site and it works)](https://stackoverflow.com/a/48250535){:target="_blank"}. You should not need to change anything in your site's `_config.yml` file for this to work.
 - You can also view (and download, if you wish) the [Markdown versions of our class website pages](https://github.com/lcthomas/eng612s22/tree/gh-pages){:target="_blank"} or the [Markdown for this very lab](https://github.com/lcthomas/eng612s22/blob/gh-pages/labs/lab-1.md){:target="_blank"} if you’d like to compare what you see in your browser with the marked-up text that created it (click the `Raw` button to see the Markdown without GitHub’s styling).
 - This is getting into the weeds a bit and we won't be focusing on this in this class, but just so you know for future reference: You can use Markdown for more than writing content for your website. For example, I use Markdown for most of my writing. I write pieces in my Markdown editor (I use Atom, see step nine for others), and I store references using [Zotero](https://www.zotero.org/){:target="_blank"}. Then, when I am ready to submit something, I use [pandoc](https://pandoc.org/){:target="_blank"}, which is a command-line utility for converting documents between various formats, to convert my Markdown file into a Word document or PDF (with citations and references formatted *automatically* as whatever style I need) for submission. Scott Selisker has written a detailed and useful [post](http://u.arizona.edu/~selisker/post/workflow/){:target="_blank"} about his plain-text academic writing workflow; I recommend starting there if you're interested (there is a somewhat significant learning curve, especially if you're not already familiar with Zotero, the command line, and a programming editor like Atom).
 
