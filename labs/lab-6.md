@@ -51,7 +51,9 @@ Please individually email me your self-assessment when you submit lab 6 (i.e., d
 
 ---
 ## Datasets
+I have not personally reviewed all of the datasets listed below, so please ask if you have any questions about a dataset you are thinking of using for this lab.
 
+* One of the datasets listed on the ["Datasets" page of Melanie Walsh's Intro to Cultural Analytics course Jupyter book](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html){:target="_blank"}
 * [Post45 Data Collective datasets](https://data.post45.org/our-data/){:target="_blank"} (select one):
     * HathiTrust Fiction
     * Iowa Writer's Workshop
