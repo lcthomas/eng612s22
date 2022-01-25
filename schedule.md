@@ -26,6 +26,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - [Lab 1, con\'t: GitHub Pages and Markdown](https://lindsaythomas.net/eng612s22/labs/lab-1/){:target="_blank"}
 - Recommended: Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism,"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6?readingCollection=0cd867ef){:target="_blank"} from *Data Feminism* (2020)
 
+### Thursday, January 27
+- Additional office hours, 11 am - 12 pm
+
 ## Week 3: An Impossible View from Nowhere (or, on objectivity and quantification)
 ### Wednesday, February 2
 - **Lab 1 notebook entry and statement of goals due by class**
@@ -35,6 +38,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads," *Social Text* (2018)
     - Familiarize yourself with the [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/voyage/database){:target="_blank"}<br/>
 - [Lab 2: Spreadsheets](https://lindsaythomas.net/eng612s22/labs/lab-2/){:target="_blank"}
+
+### Thursday, February 3
+- Additional office hours, 11 am - 12 pm
 
 ## Week 4: Collecting, Organizing, and Cleaning Data
 ### Wednesday, February 9
@@ -46,6 +52,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Quinn Dombrowski, ["DSC \#1: Quinn\'s Great Idea,"](https://datasittersclub.github.io/site/dsc1.html){:target="_blank"} from *The Data-Sitters Club* (Nov 7, 2019)
 - Katherine Bowers and Quinn Dombrowski, ["DSC \#2: Katia and the Phantom Corpus,"](https://datasittersclub.github.io/site/dsc2.html){:target="_blank"} from *The Data-Sitters Club* (Dec 12, 2019)
 - [Lab 3: RegEx](https://lindsaythomas.net/eng612s22/labs/lab-3/){:target="_blank"}
+
+### Thursday, February 10
+- Additional office hours, 11 am - 12 pm
 
 ## Week 5: Understanding Data I
 ### Wednesday, February 16
@@ -59,6 +68,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
     - Katherine Bowers, ["DSC \#6: Voyant\'s Big Day,"](https://datasittersclub.github.io/site/dsc6.html){:target="_blank"} from *The Data-Sitters Club* (Sept 15, 2020)
 - [Lab 4: Exploratory Data Analysis I](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"}
 
+### Thursday, February 17
+- Additional office hours, 11 am - 12 pm
+
 ## Week 6: Understanding Data II
 ### Wednesday, February 23
 - **Lab 4 notebook entry due**
@@ -69,6 +81,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - [Lab 5: Exploratory Data Analysis II](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
     - Come to class having selected the scholarly dataset you will use for labs 5 and 6 (see the last section of [Lab 4](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"})
 - Recommended: Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
+
+### Thursday, February 24
+- Additional office hours, 11 am - 12 pm
 
 ## Week 7: Digital Archives
 ### Wednesday, March 2
