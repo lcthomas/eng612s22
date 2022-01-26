@@ -52,6 +52,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Quinn Dombrowski, ["DSC \#1: Quinn\'s Great Idea,"](https://datasittersclub.github.io/site/dsc1.html){:target="_blank"} from *The Data-Sitters Club* (Nov 7, 2019)
 - Katherine Bowers and Quinn Dombrowski, ["DSC \#2: Katia and the Phantom Corpus,"](https://datasittersclub.github.io/site/dsc2.html){:target="_blank"} from *The Data-Sitters Club* (Dec 12, 2019)
 - [Lab 3: RegEx](https://lindsaythomas.net/eng612s22/labs/lab-3/){:target="_blank"}
+- Recommended: Katherine Bode, “The Equivalence of ‘Close’ and ‘Distant’ Reading; or, Toward a New Object for Data-Rich Literary History,” *Modern Language Quarterly* (2017) (in Additional Readings folder)
 
 ### Thursday, February 10
 - Additional office hours, 11 am - 12 pm
