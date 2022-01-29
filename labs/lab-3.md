@@ -98,7 +98,7 @@ Due:
 
 In your lab notebook entry for this week, you should include the following things:
 1. The regex's used to clean the data in step three above (or, if you just couldn't reach the goal, to come as near as you could get to our goal). There is no one right answer here; a variety of regex sequences will work.
-2. A response to the following prompt: Describe your experience working with regular expressions in this week's lab in relation to at least one of our readings assigned for this week (week 4). This discussion should be specific but it needn't be long (i.e., 2-4 paragraphs).
+2. A response to the following prompt: Discuss your experience working with regular expressions in this week's lab in relation to at least one of our readings assigned for this week (week 4). This discussion should be specific but it needn't be long (i.e., 2-4 paragraphs).
 
 ---
 
