@@ -49,7 +49,7 @@ Voyant also has some nice features for sharing and embedding. If you hover your 
 **This is the URL you should use to access this data again so that you don't have to reload your data if you close your laptop or browser window before completing this lab. Please note that this URL will not save any particular tool views or options that you change moving forward; to do that, you can export at the end of your session or export each view individually. As with the science corpus ID, you can use this URL for about a month.**
 
 ## Four: Stopwords
-### Note
+### Important: Before continuing create a notes document
 Before beginning step four of this lab, **create a notes document in which you can jot down notes about your explorations of various aspects of Voyant as you go**. Each step from here on out includes questions that you should jot down short answers to in your notes document as you complete each step. You will need this document for writing your lab notebook entry for this week.
 
 Stopwords are words that a tool or method in text analysis ignores, on the logic that they aren't meaningful and may skew your results (usually because they are very common words in any English-language corpus, for example, so the fact that they are common in *your* corpus isn't necessarily meaningful). Voyant automatically incorporates a list of stopwords, including "the", "and", etc. To see and alter the stopwords Voyant uses, click on the **Define options for this tool** icon (it is a radial button that looks "selected," to the left of the question mark icon) in each panel's upper right-hand corner.
