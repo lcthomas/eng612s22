@@ -52,6 +52,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Quinn Dombrowski, ["DSC \#1: Quinn\'s Great Idea,"](https://datasittersclub.github.io/site/dsc1.html){:target="_blank"} from *The Data-Sitters Club* (Nov 7, 2019)
 - Katherine Bowers and Quinn Dombrowski, ["DSC \#2: Katia and the Phantom Corpus,"](https://datasittersclub.github.io/site/dsc2.html){:target="_blank"} from *The Data-Sitters Club* (Dec 12, 2019)
 - [Lab 3: RegEx](https://lindsaythomas.net/eng612s22/labs/lab-3/){:target="_blank"}
+    - Lab 3 is really long! That's because, starting with part 3, I've tried to write out everything we are going to do, step by step. Before class, it will be to your benefit to skim the entire lab. You should also read through the "Introduction" and "What Are Regular Expressions?" sections.
 - Recommended: Katherine Bode, “The Equivalence of ‘Close’ and ‘Distant’ Reading; or, Toward a New Object for Data-Rich Literary History,” *Modern Language Quarterly* (2017) (in Additional Readings folder)
 
 ### Thursday, February 10
@@ -64,10 +65,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Sarah Allison, ["Other People's Data: Humanities Edition,"](https://culturalanalytics.org/article/11822){:target="_blank"} *Journal of Cultural Analytics* (2016)
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch. 6: The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2){:target="_blank"} from *Data Feminism* (2020)
 - Maria Sachiko Cecire, ["DSC \#3: The Truth About Digital Humanities Collaborations (and Textual Variants!)",](https://datasittersclub.github.io/site/dsc3.html){:target="_blank"} from *The Data-Sitters Club* (Jan 10, 2020)
-- Skim both of the below *Data-Sitters Club* books, but select just 1 to read in detail:
-    - Anouk Lang, ["DSC \#4: AntConc Saves the Day,"](https://datasittersclub.github.io/site/dsc4.html){:target="_blank"} from *The Data-Sitters Club* (April 10, 2020)
-    - Katherine Bowers, ["DSC \#6: Voyant\'s Big Day,"](https://datasittersclub.github.io/site/dsc6.html){:target="_blank"} from *The Data-Sitters Club* (Sept 15, 2020)
+- Katherine Bowers, ["DSC \#6: Voyant\'s Big Day,"](https://datasittersclub.github.io/site/dsc6.html){:target="_blank"} from *The Data-Sitters Club* (Sept 15, 2020)
 - [Lab 4: Exploratory Data Analysis I](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"}
+    - Lab 4 is really long! That's because I've tried to write out everything we are going to do, step by step. Before class, it will be to your benefit to skim the entire lab. You should also read through the "Why Voyant?" section, and complete step 1 (downloading the corpora).
 
 ### Thursday, February 17
 - Additional office hours, 11 am - 12 pm
