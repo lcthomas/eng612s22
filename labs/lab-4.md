@@ -58,6 +58,8 @@ To see the effect stopwords can have on something simple like term frequency ana
 
 **Question 1**: How does this change the word cloud, and what are these changes telling you? If we don't get to this in the lab portion of our class, write down a short answer in your notes document.
 
+It's worth noting, however, that it may not always make sense to remove stopwords when conducting text analysis; it depends on what you are doing and why. There are certain contexts in which removing stopwords may hinder analysis.
+
 ## Five: Significant terms
 Head over to the far right panel (the tool selected should be **Trends**). Select **Document Terms**. You should now see a spreadsheet of individual terms in the corpus, ordered by relative frequency. As opposed to raw frequency (the metric used in the **Cirrus** visualization, for example), which just tells you the count of each term, relative frequency tells you the frequency of a term per x number of terms in your corpus (in Voyant's case, it's per 10 million words). Take some time to figure out what each column heading means.
 
