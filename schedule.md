@@ -80,7 +80,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
 -  Jo Guldi, ["Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora,"](https://culturalanalytics.org/article/11028){:target="_blank"} *Journal of Cultural Analytics* (2018)
 - Laura Nelson, "Computational Grounded Theory: A Methodological Framework," *Sociological Methods & Research* (2017)
 - [Lab 5: Exploratory Data Analysis II](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
-    - Come to class having selected the scholarly dataset you will use for labs 5 and 6 (see the last section of [Lab 4](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"})
 - Recommended: Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
 
 ### Thursday, February 24
@@ -89,6 +88,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 7: Digital Archives
 ### Wednesday, March 2
 - **Lab 5 notebook entry due**
+- **Come to class having selected the scholarly dataset you will use for lab 6 (see the last section of [Lab 6](https://lindsaythomas.net/eng612s22/labs/lab-6/){:target="_blank"}) for ideas**
 - Trevor Owens, "Introduction: Beyond Digital Hype and Digital Anxiety," from *The Theory and Craft of Digital Preservation* (2018), focus especially on the "Sixteen Guiding Digital Preservation Axioms" (pgs 4-9)
 - Andrew Prescott and Lorna Hughes, "[Why Do We Digitize?: The Case for Slow Digitization,"](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/){:target="_blank"} *Archive Journal* (2018)
 - Thomas Padilla, ["On A Collections As Data Imperative,"](https://escholarship.org/uc/item/9881c8sv#main){:target="_blank"} Library of Congress (2017)
