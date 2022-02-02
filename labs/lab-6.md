@@ -5,11 +5,11 @@ title: Lab 6 - Dataset Analysis
 In this lab, you will describe an already existing scholarly dataset and discuss its contributions to a particular field and/or subfield(s).
 
 ## Selecting Your Dataset
-At the bottom of this page (as well as at the bottom of the page for [lab 4](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"}), I've listed some datasets you might use in completing this lab. You may also find your own dataset to use for this assignment, perhaps one that relates more directly to your research and/or teaching fields of interest. However, if you want to use a dataset you have found on your own to complete this lab, I strongly recommend you run this choice by me before completing this assignment.
+At the bottom of this page, I've listed some datasets you might use in completing this lab. You may also find your own dataset to use for this assignment, perhaps one that relates more directly to your research and/or teaching fields of interest. However, if you want to use a dataset you have found on your own to complete this lab, I recommend you run this choice by me before completing this assignment.
 
 No matter what dataset you use for this assignment, you should select one you want to learn more about and that you are interested in spending some time with. It should also adhere to the below criteria:
 
-- It should be collected by someone else/an organization (i.e., not you), and it should be a "scholarly dataset." This means, broadly, that it should be a dataset that was created for the purposes of or to support academic research and/or teaching. This also usually means that it will have been collected by scholars, graduate students, higher ed instructors, research librarians, archivists, research center directors, etc.
+- It should be collected by someone else/an organization (i.e., not you), and it should be a "scholarly dataset." This means, broadly, that it should be a dataset that was created for the purposes of or to support academic research and/or teaching. This also usually means that it will have been collected by scholars, graduate or undergraduate students, higher ed instructors, research librarians, archivists, research center directors, etc.
 - It should be “conceptually contained,” meaning all of the data should “go together” in some way. For instance, the data in the Post45 HathiTrust fiction dataset is composed of metadata about volumes of fiction held by HathiTrust published after 1945. The dataset you select should have clear principles of inclusion.
 - You should be able to access the majority or the entirety of the dataset.
 - You should be able to find at least some documentation of how the data was collected and who collected it.
@@ -54,6 +54,8 @@ Please individually email me your self-assessment when you submit lab 6 (i.e., d
 I have not personally reviewed all of the datasets listed below, so please ask if you have any questions about a dataset you are thinking of using for this lab.
 
 * One of the datasets listed on the ["Datasets" page of Melanie Walsh's Intro to Cultural Analytics course Jupyter book](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html){:target="_blank"}
+* [WE1S project datasets](https://zenodo.org/search?page=1&size=20&q=%2Bwe1s%20%2Bdataset%20-%22WE1S%20Collection%20Registry%20ID%22){:target="_blank"} (you may wish to select one)
+    * A subset of this data is that which we used for the publication "The Humanities in Public: A Computational Analysis of US National and Campus Newspapers": [Dataverse repository](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BD9CE8){:target="_blank"}; [browse the repository contents on GitHub](https://github.com/lcthomas/humanitiespublic){:target="_blank"}
 * [Post45 Data Collective datasets](https://data.post45.org/our-data/){:target="_blank"} (select one):
     * HathiTrust Fiction
     * Iowa Writer's Workshop
@@ -70,10 +72,10 @@ I have not personally reviewed all of the datasets listed below, so please ask i
     * The pre-packaged datasets include various kinds of visual content (photos, illustrations, maps, comics, etc) from Chronicling America’s Newspaper Navigator dataset, all from 1905, and their corresponding metadata. The visual content is generally included in a .zip file, and the metadata is in both json and csv format. You may want to select different kinds of visual content to complete the assignment, or you may want to focus on just one.
     * Learn about Chronicling America here: <https://chroniclingamerica.loc.gov/about/>
 * 2014 snapshot of the Tate Collection: <https://github.com/tategallery/collection>
-    * This repo includes metadata for ~70,000 artworks owned or jointly owned by the Tate Museum. It also includes metadata for ~3,500 artists. It was last updated in 2014. It does not include the artworks themselves.
+    * This repo includes metadata for ~70,000 artworks owned or jointly owned by the Tate Museum. It also includes metadata for ~3,500 artists. It was last updated in 2014. It does not include the artworks themselves. (This is the metadata used in *A Sort of Joy (Thousands of Exhausted Things)* performance discussed in Ch 3 of *Data Feminism*.)
     * A number of people have used this metadata for various applications, which you might find useful in completing this assignment. The page above includes a list, but Florian Kräutli’s visualizations are a good starting point: <http://research.kraeutli.com/index.php/2013/11/the-tate-collection-on-github/>.
 * 20th-Century American Bestsellers: <http://bestsellers.lib.virginia.edu/>
-    * This data is not available in Excel/csv form; it is only possible to examine the data using the website interface. Still, it would be possible to complete your assignment using this dataset.
+    * This data is not available in Excel/csv form; it is only possible to examine the data using the website interface (unless you scrape it from the website). Still, it would be possible to complete your assignment using this dataset.
     * Learn a bit more about the data here: <http://bestsellers.lib.virginia.edu/help/credits/>
     * Learn about a 2003 exhibit using the data here: <https://www.jstor.org/stable/20864015?seq=1#metadata_info_tab_contents>
     * Learn about a 2013 adaptation of the 2003 exhibit online: <https://explore.lib.virginia.edu/exhibits/show/bestsellers>
