@@ -66,7 +66,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Catherine D'Ignazio and Lauren F. Klein, ["Ch. 6: The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2){:target="_blank"} from *Data Feminism* (2020)
 - Maria Sachiko Cecire, ["DSC \#3: The Truth About Digital Humanities Collaborations (and Textual Variants!)",](https://datasittersclub.github.io/site/dsc3.html){:target="_blank"} from *The Data-Sitters Club* (Jan 10, 2020)
 - Katherine Bowers, ["DSC \#6: Voyant\'s Big Day,"](https://datasittersclub.github.io/site/dsc6.html){:target="_blank"} from *The Data-Sitters Club* (Sept 15, 2020)
-- [Lab 4: Exploratory Data Analysis I](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"}
+- [Lab 4: Exploratory Data Analysis with Voyant](https://lindsaythomas.net/eng612s22/labs/lab-4/){:target="_blank"}
     - Lab 4 is really, *really* long! That's because I've tried to write out everything we are going to do, step by step. Before class, it will be to your benefit to skim the entire lab. You should also read through the "Why Voyant?" section, and complete steps 1-3 (downloading the corpora, creating a notes document, uploading the corpora to Voyant (and saving the science corpus ID), and saving the humanities corpus browser link). Uploading the corpora to Voyant and saving the corpus IDs and URLs is potentially one of the more fiddly aspects of working with Voyant, but it will save us a lot of time in class. I will be in the room 30 minutes before our class on this date; if you are available and would like to walk through the uploading with me, please feel free to come early.
 
 ### Thursday, February 17
