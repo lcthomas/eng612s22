@@ -75,12 +75,13 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 6: Understanding Data II
 ### Wednesday, February 23
 - **Lab 4 notebook entry due**
+- Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
 - Taylor Arnold and Lauren Tilton, ["New Data? The Role of Statistics in DH,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24){:target="_blank"} from *Debates in the Digital Humanities 2019*
 - Richard Jean So, "'All Models are Wrong,'" *PMLA* (2017)
 -  Jo Guldi, ["Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora,"](https://culturalanalytics.org/article/11028){:target="_blank"} *Journal of Cultural Analytics* (2018)
-- Laura Nelson, "Computational Grounded Theory: A Methodological Framework," *Sociological Methods & Research* (2017)
+- Katherine Bowers, Quinn Dombrowski, and Roopika Risam, ["DSC \#12: The DSC and the New Programming Language"](https://datasittersclub.github.io/site/dsc12.html){:target="_blank"} from *The Data-Sitters Club* (November 2, 2021)
 - [Lab 5: Exploratory Data Analysis II](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
-- Recommended: Benjamin M. Schmidt, ["Do Digital Humanists Need to Understand Algorithms?"](https://dhdebates.gc.cuny.edu/read/untitled/section/557c453b-4abb-48ce-8c38-a77e24d3f0bd#ch48){:target="_blank"} from *Debates in the Digital Humanities 2016*
+- Recommended: Laura Nelson, "Computational Grounded Theory: A Methodological Framework," *Sociological Methods & Research* (2017) (in Course Readings folder)
 
 ### Thursday, February 24
 - Additional office hours, 11 am - 12 pm
