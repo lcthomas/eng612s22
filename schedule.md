@@ -79,7 +79,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Taylor Arnold and Lauren Tilton, ["New Data? The Role of Statistics in DH,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24){:target="_blank"} from *Debates in the Digital Humanities 2019*
 -  Jo Guldi, ["Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora,"](https://culturalanalytics.org/article/11028){:target="_blank"} *Journal of Cultural Analytics* (2018)
 - Katherine Bowers, Quinn Dombrowski, and Roopika Risam, ["DSC \#12: The DSC and the New Programming Language"](https://datasittersclub.github.io/site/dsc12.html){:target="_blank"} from *The Data-Sitters Club* (November 2, 2021)
-- [Lab 5: Exploratory Data Analysis II](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
+- [Lab 5: Python and Jupyter Notebooks](https://lindsaythomas.net/eng612s22/labs/lab-5/){:target="_blank"}
+    - There's some reading to prepare for this lab. Before class, please read through the entire Lab 5 page. You can also click on the [Lab 5 Jupyter notebook Binder link](https://mybinder.org/v2/gh/lcthomas/eng612s22-lab5/HEAD?urlpath=lab%2Ftree%2Flab5.ipynb){:target="_blank"} that we will be using in class and wait for it to load; this will reduce load time before our lab some.
 - Recommended: Laura Nelson, "Computational Grounded Theory: A Methodological Framework," *Sociological Methods & Research* (2017); Richard Jean So, "'All Models are Wrong,'" *PMLA* (2017) (both in Course Readings folder)
 
 ### Thursday, February 24
