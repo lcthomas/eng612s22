@@ -52,3 +52,4 @@ Due:
 In your lab notebook entry for this week, you should include the following things:
 1. Short responses to questions 1-4 from the Lab 5 Jupyter notebook.
 2. A response to the following prompt: Discuss your experience exploring Python in this week's lab in relation to at least one of our readings assigned for this week (week 6). This discussion should be specific but it needn't be long (i.e., 2-4 paragraphs).
+3. The dataset you plan to use in completing [Lab 6](https://lindsaythomas.net/eng612s22/labs/lab-6/){:target="_blank"}.
