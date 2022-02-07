@@ -3,7 +3,7 @@ layout: page
 title: Lab 5 - Python and Jupyter Notebooks
 ---
 To access the notebook we are using for today's lab, follow the first link below. Loading the notebook may take a few minutes; this is normal. The second link is for the lab's GitHub repository.
-- [Lab 5 Jupyter Notebook](https://mybinder.org/v2/gh/lcthomas/eng612s22-lab5/b7ab74f12bda308361b400e841a080558ac4d573?urlpath=lab%2Ftree%2Flab5.ipynb){:target="_blank"}
+- [Lab 5 Jupyter Notebook](https://mybinder.org/v2/gh/lcthomas/eng612s22-lab5/HEAD?urlpath=lab%2Ftree%2Flab5.ipynb){:target="_blank"}
 - [Lab 5 GitHub repository](https://github.com/lcthomas/eng612s22-lab5){:target="_blank"}
 
 ## Acknowledgments
@@ -40,7 +40,7 @@ I then wrote a Python script that opened up each individual file (each file is 1
 
 ## Ok, Finally, Let's Look at the Code
 Open up the Jupyter notebook we are using for this lab using the first link below (loading may take up to a few minutes; this is normal). The second link is to the lab's GitHub repository.
-- [Lab 5 Jupyter Notebook](https://mybinder.org/v2/gh/lcthomas/eng612s22-lab5/b7ab74f12bda308361b400e841a080558ac4d573?urlpath=lab%2Ftree%2Flab5.ipynb){:target="_blank"}
+- [Lab 5 Jupyter Notebook](https://mybinder.org/v2/gh/lcthomas/eng612s22-lab5/HEAD?urlpath=lab%2Ftree%2Flab5.ipynb){:target="_blank"}
 - [Lab 5 GitHub repository](https://github.com/lcthomas/eng612s22-lab5){:target="_blank"}
 
 The lab 5 notebook only explains the aspects of Python syntax that you will need to complete this lab. For a much fuller introduction to Python basics such as variables, data types, etc., see [Walsh's textbook](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/00-Python.html){:target="_blank"}.
