@@ -89,10 +89,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 7: Digital Archives
 ### Wednesday, March 2
 - **Lab 5 notebook entry due**
-- **Come to class having selected the scholarly dataset you will use for lab 6 (see the last section of [Lab 6](https://lindsaythomas.net/eng612s22/labs/lab-6/){:target="_blank"}) for ideas**
+- **Come to class having selected the scholarly dataset you will use for lab 6 (see the last section of [Lab 6](https://lindsaythomas.net/eng612s22/labs/lab-6/){:target="_blank"} for ideas)**
 - Trevor Owens, "Introduction: Beyond Digital Hype and Digital Anxiety," from *The Theory and Craft of Digital Preservation* (2018), focus especially on the "Sixteen Guiding Digital Preservation Axioms" (pgs 4-9)
 - Andrew Prescott and Lorna Hughes, "[Why Do We Digitize?: The Case for Slow Digitization,"](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/){:target="_blank"} *Archive Journal* (2018)
-- Thomas Padilla, ["On A Collections As Data Imperative,"](https://escholarship.org/uc/item/9881c8sv#main){:target="_blank"} Library of Congress (2017)
 - Jennifer Guliano and Carolyn Heitman, ["Difficult Heritage and The Complexities of Indigenous Data,"](https://culturalanalytics.org/article/11041-difficult-heritage-and-the-complexities-of-indigenous-data){:target="_blank"} *Journal of Cultural Analytics* (2019)
 - Miriam Posner and Marika Cifor, "Generative Tensions: Building a Digital Project on Early African American Race Film," *American Quarterly* (2018)
     - Familiarize yourself with the [Race Film Database](https://zenodo.org/record/160585#.YcHs8SxOmLc){:target="_blank"}
@@ -104,17 +103,18 @@ I reserve the right to change the course calendar as needed; adequate advance no
     - Familiarize yourself with the [CCP Corpus](https://coloredconventions.org/about-records/ccp-corpus/){:target="_blank"} (download and explore)
     - Familiarize yourself with the [Exhibits section of the site](https://coloredconventions.org/exhibits/){:target="_blank"} (select at least 1 exhibit to skim/explore)
 - Discuss [Lab 6](https://lindsaythomas.net/eng612s22/labs/lab-6/){:target="_blank"}
+- Recommended: Thomas Padilla, ["On A Collections As Data Imperative,"](https://escholarship.org/uc/item/9881c8sv#main){:target="_blank"} Library of Congress (2017)
 
 ## Week 8: Encounters with Digital Archives
 ### Wednesday, March 9
 - Matthew Kirschenbaum, "Ch. 1: Archives Without Dust," from *Bitstreams: The Future of Digital Literary Heritage* (2021)
-- Mike Ashenfelder, ["The NEH 'Chronicling America' Challenge: Using Big Data to Ask Big Questions,"](https://blogs.loc.gov/thesignal/2016/08/the-neh-chronicling-america-challenge-using-big-data-to-ask-big-questions/?loclr=blogsig){:target="_blank"} *The Signal: A Library of Congress Blog* (Aug 4, 2016)
 -  Roopika Risam, "Ch 2: Colonial Violence and the Postcolonial Digital Archive" from *New Digital Worlds* (2019)
     - Familiarize yourself with the [Early Caribbean Digital Archive](https://ecda.northeastern.edu/){:target="_blank"}
 - Lauren F. Klein, "The Image of Absence: Archival Silence, Data Visualization, and James Hemings," *American Literature* (2013)
     - Familiarize yourself with [The Papers of Thomas Jefferson archive](https://rotunda.upress.virginia.edu/founders/TSJN.html){:target="_blank"}
 - Michelle Caswell, Marika Cifor, and Mario H. Ramirez, "'To Suddenly Discover Yourself Existing': Uncovering the Impact of Community Archives," *The American Archivist* (2016)
     - Familiarize yourself with the [South Asian American Digital Archive](https://www.saada.org/){:target="_blank"}
+- Recommended: Mike Ashenfelder, ["The NEH 'Chronicling America' Challenge: Using Big Data to Ask Big Questions,"](https://blogs.loc.gov/thesignal/2016/08/the-neh-chronicling-america-challenge-using-big-data-to-ask-big-questions/?loclr=blogsig){:target="_blank"} *The Signal: A Library of Congress Blog* (Aug 4, 2016)
 
 ### Friday, March 11: Lab 6 and first self-assessment due (Lab notebook check: Lindsay will give individual feedback on labs 4-6 over break)
 
