@@ -105,6 +105,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Discuss [Lab 6](https://lindsaythomas.net/eng612s22/labs/lab-6/){:target="_blank"}
 - Recommended: Thomas Padilla, ["On A Collections As Data Imperative,"](https://escholarship.org/uc/item/9881c8sv#main){:target="_blank"} Library of Congress (2017)
 
+### Thursday, March 3
+- Additional office hours, 11 am - 12 pm
+
 ## Week 8: Encounters with Digital Archives
 ### Wednesday, March 9
 - Matthew Kirschenbaum, "Ch. 1: Archives Without Dust," from *Bitstreams: The Future of Digital Literary Heritage* (2021)
