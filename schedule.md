@@ -133,12 +133,12 @@ I reserve the right to change the course calendar as needed; adequate advance no
 - Laura B. McGrath, ["America\'s Next Top Novel,"](https://post45.org/2020/04/americas-next-top-novel/){:target="_blank"} *Post45* (2020)
 - Richard Jean So, ["Contemporary Culture After Data Science,"](https://culturalanalytics.org/article/22335-introduction-contemporary-culture-after-data-science){:target="_blank"} *Journal of Cultural Analytics* (2021) (introduction to special issue that includes Sinykin and Roland's article below)
 - Dan Sinykin and Edwin Roland, ["Against Conglomeration,"](https://culturalanalytics.org/article/22331-against-conglomeration){:target="_blank"} *Journal of Cultural Analytics* (2021)
-- Contribute 1 reading to class Google doc of readings for next week (can contribute a digital project/archive, but be specific about what you want people to read/explore)
+- **By class, please contribute 1 reading to the "Week 11 Reading Suggestions" document in our class Google drive folder; see instructions in the document for more information.**
 
 ## Week 11: Data and Computation in the Humanities
 ### Wednesday, March 30
--   Readings set by class
-    - Select 3 readings from class Google doc to read for today (including the one you contributed)
+-   Readings set by class and drawn from the "Week 11 Reading Suggestions" document in our class Google drive folder.
+    - We will read 3-4 pieces/projects suggested by the class.
 - After break: Discuss preliminary final project ideas with class (come to class ready to discuss this)
 
 ## Week 12: Proceed with Care
