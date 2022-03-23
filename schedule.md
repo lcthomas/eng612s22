@@ -145,7 +145,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ### Wednesday, April 6
 - **Final project abstract due**
 - Nan Z. Da, "The Computational Case against Computational Literary Studies," *Critical Inquiry* (2019)
-    - Also skim the Appendix, especially section 9, "Suggested Guidelines for Reviewing CLS Manuscripts," pg 25. This is in our course Box folder as a zip file, titled "Da - Appendix.zip." Download the zip file and unzip to read.
+    - Also skim the Appendix, especially section 9, "Suggested Guidelines for Reviewing CLS Manuscripts," pg 25. This is in our course readings folder (on Google drive) as a zip file, titled "Da - Appendix.zip." Download the zip file and unzip to read.
 -  ["Computational Literary Studies: A Critical Inquiry Online Forum"](https://critinq.wordpress.com/2019/03/31/computational-literary-studies-a-critical-inquiry-online-forum/){:target="_blank"} (March 2019) (these are short responses to Da's article that were published on *Critical Inquiry*'s blog shortly after the publication of her article):
     - Katherine Bode, [Day 1 response](https://critinq.wordpress.com/2019/04/01/computational-literary-studies-participant-forum-responses-2/){:target="_blank"}
     - Lauren F. Klein, [Day 1 response](https://critinq.wordpress.com/2019/04/01/computational-literary-studies-participant-forum-responses-5/){:target="_blank"}
