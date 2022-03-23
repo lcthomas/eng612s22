@@ -138,8 +138,9 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 11: Data and Computation in the Humanities
 ### Wednesday, March 30
 -   Readings set by class and drawn from the "Week 11 Reading Suggestions" document in our class Google drive folder.
-    - We will read 3-4 pieces/projects suggested by the class.
-- After break: Discuss preliminary final project ideas with class (come to class ready to discuss this)
+    - Select 3 readings from the "Week 11 Reading Suggestions" document to read for next week, in addition to the 1 reading you selected (for a total of 4 readings).
+      - Please come to class with 1-2 questions and/or quotations from **each** reading you selected to read for this week's class. You can use the "Week 11 Discussion Questions and/or Quotes" document in our class Google drive folder to list your questions/quotes. See the "Week 11 Discussion Questions and/or Quotes" document for more information.
+- Last ~30 min of class: Discuss preliminary final project ideas with class (come to class ready to discuss this)
 
 ## Week 12: Proceed with Care
 ### Wednesday, April 6
