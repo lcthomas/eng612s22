@@ -174,6 +174,5 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 15: Final Projects
 ### Wednesday, April 27
 - Final project presentations and discussion
-- Post-class happy hour at Titanic Brewery (5813 Ponce de Leon)
 
 ### Final project and final self-assessment due finals week: Date TBD by class
