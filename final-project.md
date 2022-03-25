@@ -3,10 +3,10 @@ layout: page
 title: Final Project
 ---
 ## Due:
--   Abstract: Wed, April 6
+-   Abstract: Wed, April 6 (post to website)
 -   4-5 minute presentation of final project in progress: Wed, April 27
--   Proof-of-concept dataset, codebook, and critical introduction: finals week (date TBD by class)
--   Final self-assessment: finals week (same time as final project; email me your self-assessment individually)
+-   Proof-of-concept dataset, codebook, and critical introduction: Mon, May 9 (post to website)
+-   Final self-assessment: Mon, May 9 (email me your self-assessment individually)
 
 Your final project in this class is a scholarly dataset and a critical introduction to that dataset. You may work with other members of the class to complete the final project. If working with others, your team will turn in 1 copy of your proof-of-concept dataset (i.e., you don't each have to turn it in to me). You will also have a choice about how you would like to write your critical introduction: each member of your team may write their own, or, alternatively, you may turn in a collaboratively written critical introduction (or some combination of these two options). If you opt to collaborate with others on the final project, it will be important for your team to discuss with me how you plan to organize your labor so that all members contribute equally to the final product.
 
@@ -22,7 +22,7 @@ How you collect this data is up to you, but you should take considerations about
 - You should be able to collect this data ethically and transparently. This means you should be aware of copyright and/or fair use restrictions (if applicable), human subjects protocols (if applicable), and other potential barriers or complications to collection.
 - You should have ideas about how you would scale up data collection efforts if you had the time (and/or the money) to collect the full dataset (instead of just a subset, like you are doing for this class).
 
-You (and/or your team, if you are working collaboratively) will turn in an abstract describing your plans for your dataset by Wednesday, April 6. This abstract should include the following:
+You (and/or your team, if you are working collaboratively) will turn in an abstract describing your plans for your dataset by Wednesday, April 6. You should post your abstract to your website (or to a partner's or team member's website). This abstract should include the following:
 
 1. If you are working with a partner or a team, who your partner or teammates are.
 2. The title of your dataset.
