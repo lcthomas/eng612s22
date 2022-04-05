@@ -158,7 +158,6 @@ I reserve the right to change the course calendar as needed; adequate advance no
 
 ## Week 13: Futures of Humanities Data Work
 ### Wednesday, April 13
-- Safiya Umoja Noble, ["Toward a Critical Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 - Kaiama L. Glover and Alex Gil, ["On the Interpretation of Digital Caribbean Dreams,"](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/33fd877a-fbe4-4c32-ae69-6648811bf23c#ch19){:target="_blank"} from *The Digital Black Atlantic* (2021)
 - Rachel Mann, ["Paid to Do but Not to Think: Reevaluating the Role of Graduate Student Collaborators"](https:/dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ea501a60-dd3c-4c22-a942-3d890c3a1e72#ch22){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 - Christina Boyles, Anne Cong-Huyen, Carrie Johnston, Jim McGrath, and Amanda Phillips, "Precarious Labor and the Digital Humanities," *American Quarterly* (2018)
@@ -172,7 +171,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
   - [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/about/){:target="_blank"}
       - Editorial policies: <https://openhumanitiesdata.metajnl.com/about/>
       - Select one "Data Paper" to skim: <https://openhumanitiesdata.metajnl.com/articles/> (there are 3 pages of results)
-- Recommended: Ted Underwood, ["Digital Humanities as a Semi-Normal Thing,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ac5fc1c4-abcb-4a04-8a4b-fa5fe763220e#ch10){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
+- Recommended: Ted Underwood, ["Digital Humanities as a Semi-Normal Thing,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ac5fc1c4-abcb-4a04-8a4b-fa5fe763220e#ch10){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019); Safiya Umoja Noble, ["Toward a Critical Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 
 ## Week 14: NO CLASS
 ### Wednesday, April 20
