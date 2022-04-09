@@ -159,7 +159,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
 ## Week 13: Futures of Humanities Data Work
 ### Wednesday, April 13
 - Kaiama L. Glover and Alex Gil, ["On the Interpretation of Digital Caribbean Dreams,"](https://dhdebates.gc.cuny.edu/read/the-digital-black-atlantic/section/33fd877a-fbe4-4c32-ae69-6648811bf23c#ch19){:target="_blank"} from *The Digital Black Atlantic* (2021)
-- Rachel Mann, ["Paid to Do but Not to Think: Reevaluating the Role of Graduate Student Collaborators"](https:/dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ea501a60-dd3c-4c22-a942-3d890c3a1e72#ch22){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
+- Rachel Mann, ["Paid to Do but Not to Think: Reevaluating the Role of Graduate Student Collaborators"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ea501a60-dd3c-4c22-a942-3d890c3a1e72){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 - Christina Boyles, Anne Cong-Huyen, Carrie Johnston, Jim McGrath, and Amanda Phillips, "Precarious Labor and the Digital Humanities," *American Quarterly* (2018)
 - Select **one** of the below journals, review their editorial policies, and select a recent article/paper to skim
     - [Data Sets section of *JCA*](https://culturalanalytics.org/section/1579-data-sets){:target="_blank"}
