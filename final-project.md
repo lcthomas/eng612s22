@@ -4,7 +4,7 @@ title: Final Project
 ---
 ## Due:
 -   Abstract: Wed, April 6 (post to website)
--   4-5 minute presentation of final project in progress: Wed, April 27
+-   5-6 minute presentation of final project in progress: Wed, April 27
 -   Proof-of-concept dataset, codebook, and critical introduction: Mon, May 9 (post to website)
 -   Final self-assessment: Mon, May 9 (email me your self-assessment individually)
 
