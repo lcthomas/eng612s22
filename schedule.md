@@ -171,6 +171,8 @@ I reserve the right to change the course calendar as needed; adequate advance no
   - [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/about/){:target="_blank"}
       - Editorial policies: <https://openhumanitiesdata.metajnl.com/about/>; <https://openhumanitiesdata.metajnl.com/about/editorialpolicies/>
       - Select one "Data Paper" to skim: <https://openhumanitiesdata.metajnl.com/articles/> (there are 3 pages of results)
+- [Journal of Slavery and Data Preservation](https://jsdp.enslaved.org/){:target="_blank"}
+    - Editorial policies: <https://jsdp.enslaved.org/contribute/#submit>; <https://kora.enslaved.org/files/40-63-10/JSDP-SubmissionGuidelines-OJS202105.pdf>
 - Recommended: Ted Underwood, ["Digital Humanities as a Semi-Normal Thing,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ac5fc1c4-abcb-4a04-8a4b-fa5fe763220e#ch10){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019); Safiya Umoja Noble, ["Toward a Critical Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 
 ## Week 14: NO CLASS
