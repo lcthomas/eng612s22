@@ -169,7 +169,7 @@ I reserve the right to change the course calendar as needed; adequate advance no
      - Editorial policies: <https://data.post45.org/#peer-review> (read all of the content included in the column on the right, e.g., "Relevance and Reuse," "Description," etc)
      - Select one curatorial statement to skim (the  HathiTrust Post45 dataset does not include a curatorial statement, so select either the Iowa Writers' Workshop statement or the NYT Hardcover Fiction Bestsellers statement): <https://data.post45.org/our-data/>
   - [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/about/){:target="_blank"}
-      - Editorial policies: <https://openhumanitiesdata.metajnl.com/about/>
+      - Editorial policies: <https://openhumanitiesdata.metajnl.com/about/>; <https://openhumanitiesdata.metajnl.com/about/editorialpolicies/>
       - Select one "Data Paper" to skim: <https://openhumanitiesdata.metajnl.com/articles/> (there are 3 pages of results)
 - Recommended: Ted Underwood, ["Digital Humanities as a Semi-Normal Thing,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/ac5fc1c4-abcb-4a04-8a4b-fa5fe763220e#ch10){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019); Safiya Umoja Noble, ["Toward a Critical Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02){:target="_blank"} from *Debates in the Digital Humanities 2019* (2019)
 
