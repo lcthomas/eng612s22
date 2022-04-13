@@ -40,7 +40,7 @@ When you turn in your dataset, you should also turn in a codebook, or documentat
 ## Presenting your Dataset in Progress
 Our class period on Wednesday, April 27 will be devoted to quick presentations of your datasets in progress. In these presentations, you should describe your dataset (including the kind of data it contains, its boundaries/scope, and its metadata fields) and quickly contextualize this dataset in relation to other existing scholarly datasets, the questions it allows researchers to answer, gaps in existing fields, etc. In brief, your presentation should answer the following 3 questions: 1) What is this dataset?; 2) How are you collecting it?; 3) Why is it significant?
 
-If you are working on your final project individually, your presentation should be about 4 minutes long (I will warn you at 4 minutes and cut you off at 5 minutes). If you are working on your final project with others, talk to me in advance about the length of your presentation and its content, as team presentations will likely need more time.
+If you are working on your final project individually, your presentation should be about 5 minutes long (I will warn you at 5 minutes and cut you off at 6 minutes). If you are working on your final project with others, talk to me in advance about the length of your presentation and its content, as team presentations may need more time.
 
 ## Writing your Critical Introduction
 After collecting your dataset, you will write a \~2500-3000-word critical introduction to your dataset. You may organize your critical introduction how you choose, but it should contain the following elements:
