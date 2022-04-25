@@ -10,18 +10,18 @@ If you are working on your final project individually, your presentation should 
 ### Schedule of Presentations
 Presentations will proceed in the order outlined below. Each group will be followed by a discussion/Q&A period.
 
-#### Group 1: Early Modern Witches, Women, and Other Wonders
+#### **Group 1: Early Modern Witches, Women, and Other Wonders**
 -	Vanessa Barcelos, “Skepticism to magic and witchcraft in print from the 16th to the 17th century”
 -	Hyekyung Jung, “Wandering Women: Women’s Travels in the Early Modern Literature”
 -	Claire Richie and Kate Albrecht, “Early Modern Care”
 -	Katie Sanford, “Early Modern Accounts of the Strange and Monstrous”
 
-#### Group 2: From the 19th Century to the 1990s (and beyond)
+#### **Group 2: From the 19th Century to the 1990s (and beyond)**
 -	Alison McCann, “Letters from Liberia: Black Colonization in the Early 19th Century”
 -	Rachel Northrop, “1970s Bibliography of American Books”
 -	Diona Espinosa, “Cuban Documentary Filmmaking Archive and Database”
 
-#### Group 3: Contemporary Culture, As Seen On Social Media
+#### **Group 3: Contemporary Culture, As Seen On Social Media**
 -	Micaela Donabella, “‘Cyborg’ in Popular Criticism & Short-form Fiction”
 -	Yasamin Rezaei, “#Me_too_iran: Tweets from #metoo movement in Iran and Persian Sphere of Twitter”
 -	Savannah Saavedra, “Following Activism through Social Media in Latin America”
